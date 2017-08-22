@@ -1,0 +1,19 @@
+{
+  "name": "pole-trojkata",
+  "version": "1.0.0",
+  "description": "Pole trojkąta JavaScript",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "pole",
+    "trójkąta"
+  ],
+  "author": "Agata Kądziołka",
+  "license": "ISC"
+}
